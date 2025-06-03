@@ -19,5 +19,5 @@ A small blog-style project built with React to practice creating and using compo
 1. clone the repo
 2. cd into the repository
 3. install dependencies with npm install
-4. start the server with npm start
+4. start the server with npm run dev
 5. open your browser at http://localhost:5173/
